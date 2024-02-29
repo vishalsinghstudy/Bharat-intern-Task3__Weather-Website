@@ -23,8 +23,11 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task3__Weather-Website
 
 # Features 📋
 ⚡️GitHub Pages: To host the static website (HTML, CSS, JS)
+
 ⚡️OpenWeatherMap API: To fetch weather data
+
 ⚡️Visual Studio Code: As the text editor for writing the code
+
 ⚡️ Fully Responsive
 
 # Getting Started
