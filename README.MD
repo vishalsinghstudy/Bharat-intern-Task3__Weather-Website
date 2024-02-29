@@ -15,10 +15,11 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task3__Weather-Website
 ## Website Preview
 
 # Home Page
-![App Screenshot]()
+![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task3__Weather-Website/blob/main/images/Screenshot.jpg)
+![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task3__Weather-Website/blob/main/images/Screenshot%203.jpg)
 
 ## Screen
-![vino map gif]()
+![vino map gif](https://github.com/vishalsinghstudy/Bharat-intern-Task3__Weather-Website/blob/main/images/screen.gif)
 
 # Features 📋
 ⚡️GitHub Pages: To host the static website (HTML, CSS, JS)
